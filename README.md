@@ -6,8 +6,8 @@ support dividing news by categories
 
 
 # Libararies and Technologies Used
-Jetpack Compose for UI
-Compose navigation
+Jetpack Compose for UI <br>
+Compose navigation  <br>
 MVVM: Android architecture used to separate logic code from ui and save the application state in case the configuration changes.
 Material3 Design
 Retrofit + Gson Converter: Fetch news from rest api as a gson file and convert it to a kotlin object.

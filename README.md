@@ -1,4 +1,4 @@
-NewsApp is an MVVM Jetpack Compose app built by android platform using kotlin as programming language.
+//NewsApp is an MVVM Jetpack Compose app built by android platform using kotlin as programming language.
 
 fetches news from an API https://newsapi.org/ and cache the results
 support searching news
